@@ -31,5 +31,5 @@ while True:
     if option in 'Nn':
         break
 
-    print('OUTRO TESTE')
+    print('teste4')
     
