@@ -30,4 +30,6 @@ while True:
         option = str(input("Quer continuar gerando Cpf's? [S/N]: "))
     if option in 'Nn':
         break
+
+    print('FIM DO PROGRAMA')
     
